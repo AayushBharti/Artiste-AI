@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <a href="" target="_blank">
+    <!-- <a href="" target="_blank">
       <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/daf9e91b-6342-4e9a-9361-8dc2bd01ce64" alt="Project Banner">
-    </a>
+    </a> -->
   <br />
 
   <div>
