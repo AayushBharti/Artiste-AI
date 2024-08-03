@@ -1,10 +1,11 @@
 import React from "react"
+import Sidebar from "@/components/Shared/Sidebar"
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
   return (
-    // <Sidebar/>
-    // <MobileNav />
     <main className="root">
+      <Sidebar />
+      {/* <MobileNav /> */}
       <div className="root-container">
         <div className="wrapper">{children}</div>
       </div>
