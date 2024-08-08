@@ -21,6 +21,7 @@
     "qs": "^6.13.0",
     "react": "^18",
     "react-dom": "^18",
+    "svix": "^1.28.0",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7"
   },
